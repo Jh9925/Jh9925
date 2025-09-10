@@ -10,7 +10,7 @@
 
 ---
 
-### Projects  
+### Project_B  
 
 #### Battle Royale Game  
 A PUBG-style battle royale with dedicated servers, ballistics, and weapon systems.  
@@ -19,6 +19,8 @@ A PUBG-style battle royale with dedicated servers, ballistics, and weapon system
 - **Advanced weapon mechanics** (bullet velocity, attachments, aiming system)  
 - **Smooth character movement** with replication optimizations  
 - **Dynamic shrinking play zone** implementation  
+
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/b50b7a70-68ae-43db-94a6-621594db1dea" />
 
 [🔗 GitHub Repo](https://github.com/Jh9925/BGTeamProject) | [🎥 Demo Video](https://youtu.be/q5qFbxqmi4c?si=7LYJeg1u6mSQc3Sc)  
 

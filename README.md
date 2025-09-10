@@ -26,6 +26,24 @@ A PUBG-style battle royale with dedicated servers, ballistics, and weapon system
 
 ---
 
+### Project_S  
+
+#### Scarlet Nexus Clone Team Project (ARPG)
+This project is a UE5 team project simulating Scarlet Nexus.
+Based on the Gameplay Ability System, we have implemented core combat systems and AI combat modules.
+
+- **Fellow System and Monster Implementation** (Monster, Boss Monster)
+- **AI System with Game Ability System**
+- **Implementing Character Stats Using Gameplay Attribute Set**
+- **Implementing Monster and AI Logic**
+
+<img width="640" height="360" alt="Image" src="https://github.com/user-attachments/assets/677bb8af-12a5-4b1c-a005-f72ddd5dd60d" />
+
+[🔗 GitHub Repo](https://github.com/Jh9925/ScarletNexus_Public) | [🎥 Demo Video](https://youtu.be/If9H7QyXEfw?si=eGWkwc8kCQ_P3hPq)
+
+
+---
+
 ### Skills  
 
 #### Programming & Game Dev  
